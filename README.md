@@ -4,7 +4,7 @@
 </div>
 
 ## Introduction
-- 👋 Hi, I’m @dutranngobich
+- 👋 Hi, I’m Tran Ngo Bich Du
 - 🎓 I'm Graduated in Information Technology with a major in Software Engineering from HCMC University of Technology and Education, class of 2020-2024.
 - 👩‍💻 I’m a frontend developer passionate about web and mobile application development.
 - 🌍 Nationality: Vietnamese
@@ -16,9 +16,9 @@
 ### Programming Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 
 ### Web Development
